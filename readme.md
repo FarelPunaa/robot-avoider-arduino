@@ -41,7 +41,7 @@ Simple tapi lumayan keren kalau udah jalan 😄
 
 **Preview hasil robot avoider:**
 
-![Robot Avoider](assets/foto2.jpg)
+![Robot Avoider](assets/preview/foto2.jpg)
 
 Video demo bisa cek di TikTok:  
 [@puunnnpun](https://www.tiktok.com/@puunnnpun)
